@@ -1,0 +1,3 @@
+scp path_to_file  hostname@your_server_ip:target_path
+example:
+scp OpenJDK8U-jdk_x64_linux_hotspot_8u362b09.tar.gz isra@172.22.232.43:~/Downloads
